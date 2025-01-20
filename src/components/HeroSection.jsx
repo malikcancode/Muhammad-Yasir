@@ -11,7 +11,7 @@ function HeroSection() {
       <div className="flex flex-col sm:flex-row justify-evenly items-center h-auto mt-8 px-4 sm:px-0">
         <div className="bg-[#262728] p-6 w-full sm:w-[25%] rounded-md flex flex-col items-center mb-8 sm:mb-0">
           <img
-            src="/public/pic.png"
+            src="/pic.png"
             alt="Yasir Malik"
             className="w-52 h-auto rounded-md object-cover mb-4"
           />
