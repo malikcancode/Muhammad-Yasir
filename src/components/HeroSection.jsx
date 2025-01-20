@@ -15,23 +15,23 @@ function HeroSection() {
             alt="Yasir Malik"
             className="w-52 h-auto rounded-md object-cover mb-4"
           />
-          <p className="text-white sm:text-sm md:text-2xl font-semibold mb-3 sm:tracking-wide">
+          <p className="text-white sm:text-sm md:text-2xl font-semibold mb-3 tracking-wider">
             Yasir Malik
           </p>
           <p className="text-white text-center text-sm mb-3 tracking-wider font-normal capitalize">
             Full stack developer and UI designer
           </p>
           <p className="text-white text-center text-sm mb-4 tracking-wide font-normal">
-            <i className="ri-map-pin-2-line"></i> Mianwali, Pakistan
+            <i className="ri-flag-fill"></i> Mianwali, Pakistan
           </p>
-          <div className="flex gap-4 mb-4">
+          <div className="flex items-center justify-center gap-5 mb-4">
             <a
               href="https://web.facebook.com/profile.php?id=100022254347226"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-[#1877F2] transition-colors"
             >
-              <i className="ri-facebook-line"></i>
+              <i className="ri-facebook-line text-xl font-semibold"></i>
             </a>
             <a
               href="https://www.linkedin.com/in/muhammad-yasir3233/"
@@ -39,7 +39,7 @@ function HeroSection() {
               rel="noopener noreferrer"
               className="text-white hover:text-[#0077B5] transition-colors"
             >
-              <i className="ri-linkedin-line"></i>
+              <i className="ri-linkedin-line text-xl"></i>
             </a>
             <a
               href="https://github.com/malikcancode"
@@ -47,7 +47,7 @@ function HeroSection() {
               rel="noopener noreferrer"
               className="text-white hover:text-black transition-colors"
             >
-              <i className="ri-github-line"></i>
+              <i className="ri-github-line text-xl"></i>
             </a>
             <a
               href="https://www.instagram.com/immalik_32/"
@@ -55,32 +55,34 @@ function HeroSection() {
               rel="noopener noreferrer"
               className="text-white hover:text-[red] transition-colors"
             >
-              <i className="ri-instagram-line"></i>
+              <i className="ri-instagram-line text-xl"></i>
             </a>
           </div>
           <a
             href="https://wa.me/923029144398"
             target="_blank"
             rel="noopener noreferrer"
-            className="text-white rounded-sm text-[10px] sm:text-sm px-4 tracking-wider py-2 md:px-10 md:py-2 mt-4 bg-[#8B48E8]"
+            className="text-white rounded-sm text-sm flex items-center justify-center px-10 tracking-wider py-2 md:px-10 md:py-2 sm:mt-2 mt-28 bg-[#8B48E8]"
           >
-            <i className="ri-whatsapp-line mr-1 text-lg"></i>
+            <i className="ri-whatsapp-line mr-1 text-xl "></i>
             Let's Talk
           </a>
         </div>
 
         <div className="w-full sm:w-1/2 text-center sm:text-left">
-          <h1 className="text-5xl sm:text-5xl md:text-6xl leading-snug md:leading-[5rem] text-white font-bold">
+          <h1 className="text-5xl sm:text-5xl md:text-6xl leading-snug md:leading-[5rem] text-white tracking-wider font-bold">
             Website Developer <br />
             <span className="text-[#8B48E8] font-semibold">&</span>
           </h1>
-          <h1 className="text-5xl sm:text-5xl md:text-6xl leading-snug md:leading-[5rem] text-white mb-7 font-bold">
+          <h1 className="text-5xl tracking-wider sm:text-5xl md:text-6xl leading-snug md:leading-[5rem] text-white mb-7 font-bold">
             Website Designer
           </h1>
-          <h3 className="text-sm font-light sm:text-lg text-white mb-6">
-            Passionate about building intuitive and engaging user experiences.
-            Specialize in transforming ideas into beautifully crafted products
-            with expertise in Full Stack development and UI Designing.
+          <h3 className="text-sm font-thin sm:text-lg text-white mb-6">
+            I am a Full Stack Developer and Website Designer specializing in
+            creating dynamic, responsive, and visually stunning web
+            applications. With expertise in front-end design and back-end
+            development, I craft seamless user experiences. My focus is on
+            delivering high-quality, custom solutions tailored to client needs.
           </h3>
           <div className="flex flex-col sm:flex-row gap-4">
             <a

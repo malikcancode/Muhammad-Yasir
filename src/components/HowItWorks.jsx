@@ -24,8 +24,8 @@ function HowItWorks() {
 
   return (
     <>
-      <div className="flex flex-col items-center p-6 h-full mb-8">
-        <h2 className="text-5xl mb-16 text-start capitalize text-white">
+      <div className="flex flex-col items-center p-6 h-full mt-12 mb-8">
+        <h2 className="text-5xl mb-16 text-start sm:leading-[0rem] leading-[4rem] capitalize text-white">
           We will go through with{" "}
           <span className="text-[#8B48E8]">these 4 easy steps</span>
         </h2>

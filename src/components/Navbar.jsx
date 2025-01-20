@@ -6,7 +6,7 @@ function Navbar() {
   const activeLink = location.pathname;
 
   return (
-    <header className="flex mx-auto max-w-md items-center justify-center mt-8 bg-[#2A2B2C] rounded py-2 space-x-5 text-lg mb-8 font-medium w-auto">
+    <header className="flex mx-auto w-full max-w-xs sm:max-w-md items-center justify-center mt-8 bg-[#2A2B2C] rounded py-2 space-x-5 text-lg mb-8 font-medium">
       <Link
         to="/"
         className={`flex items-center gap-2 text-white rounded-sm text-sm sm:text-xl px-3 py-2 transition-all duration-300 ${

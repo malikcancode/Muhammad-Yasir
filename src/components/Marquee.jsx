@@ -2,7 +2,7 @@ function Marquee() {
   return (
     <>
       <div className="relative w-full h-auto overflow-hidden bg-transparent mt-20 p-8">
-        <h2 className="sm:text-5xl md:text-6xl text-4xl text-start leading-snug md:leading-[5rem] text-white mb-14 md:mx-16">
+        <h2 className="sm:text-5xl md:text-6xl text-4xl text-start leading-[3rem] sm:leading-none text-white mb-14 md:mx-16">
           Top-Tier Skills for
           <span className="text-[#8B48E8] ml-2">Exceptional Results</span>
         </h2>

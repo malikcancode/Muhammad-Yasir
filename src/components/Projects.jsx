@@ -47,7 +47,7 @@ function Projects() {
   return (
     <>
       <div className="flex flex-col items-end p-8">
-        <h2 className="sm:text-5xl md:text-6xl text-4xl text-white mb-16">
+        <h2 className="sm:text-5xl leading-[3rem] sm:leading-none md:text-6xl text-4xl text-white mb-16">
           Recent Projects and{" "}
           <span className="text-[#8B48E8]">Achievements</span>
         </h2>
@@ -61,9 +61,9 @@ function Projects() {
               rel="noopener noreferrer"
               className="block"
             >
-              <div className="bg-[#272829] hover:bg-[#2d6a4f] rounded-lg overflow-hidden shadow-lg p-6 transition-all duration-300 hover:shadow-xl">
+              <div className="bg-[#272829] hover:bg-[#006d77] rounded-lg overflow-hidden shadow-lg p-6 transition-all duration-300 hover:shadow-xl">
                 <div className="flex items-end justify-end">
-                  <i className="ri-arrow-right-up-line rounded-full border bg-transparent p-2 hover:bg-[#8B48E8] text-white text-xl transition-transform duration-300 hover:scale-110"></i>
+                  <i className="ri-arrow-right-up-line rounded-full border bg-transparent p-2 hover:bg-[#8B48E8] text-white text-xl transition-transform duration-300 hover:scale-125"></i>
                 </div>
                 <h3 className="text-3xl tracking-wider font-semibold text-white mb-2">
                   {project.title}
