@@ -13,7 +13,7 @@ function Collaborate() {
           development services. Let’s collaborate to create user-centered
           solutions that not only meet your goals but also delight your users.
         </p>
-        <div className="absolute top-2 sm:top-4 right-4 hover:scale-125 transition-transform duration-300 mb-6">
+        <div className="absolute top-6 sm:top-4 right-6 hover:scale-125 transition-transform duration-300 mb-6">
           <i className="ri-arrow-right-up-line border text-sm rounded-full p-1 text-white group-hover:text-black group-hover:bg-white group-hover:text-[#8B48E8]"></i>
         </div>
       </a>
