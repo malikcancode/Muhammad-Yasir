@@ -3,7 +3,6 @@ import Marquee from "./Marquee";
 import Projects from "./Projects";
 import HowItWorks from "./HowItWorks";
 import Questions from "./Questions";
-import Footer from "./Footer";
 
 function HeroSection() {
   return (
@@ -105,6 +104,7 @@ function HeroSection() {
           </div>
         </div>
       </div>
+
       <Marquee />
       <Projects />
       <HowItWorks />
