@@ -41,6 +41,12 @@ const projectData = [
     subheading: "Search Your Movie",
     link: "https://movie-search-app-five-delta.vercel.app/",
   },
+    {
+    id: 8,
+    title: "EnhanceX",
+    subheading: "Upscale your Image",
+    link: "https://enhance-x-image-upscaler.vercel.app/",
+  },
 ];
 
 function Projects() {
