@@ -47,6 +47,12 @@ const projectData = [
     subheading: "Upscale your Image",
     link: "https://enhance-x-image-upscaler.vercel.app/",
   },
+     {
+    id: 9,
+    title: "PawsAndClawsVet",
+    subheading: "small-town neighborhood clinic",
+    link: "https://paws-and-claws-vet.vercel.app/",
+  },
 ];
 
 function Projects() {
