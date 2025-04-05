@@ -49,8 +49,8 @@ const projectData = [
   },
      {
     id: 9,
-    title: "PawsAndClawsVet",
-    subheading: "small-town neighborhood clinic",
+    title: "PawsAndClaws",
+    subheading: "small-town clinic",
     link: "https://paws-and-claws-vet.vercel.app/",
   },
 ];
