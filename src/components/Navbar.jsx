@@ -39,8 +39,8 @@ function Navbar() {
         <i className="ri-line-chart-line"></i>
       </Link>
       <a
-        href="/Muhammad_Yasir_Resume.pdf"
-        download="Muhammad_Yasir_Resume.pdf"
+        href="/Muhammad_Yasir_FullStack Developer_Resume.pdf"
+        download="Muhammad_Yasir_FullStack Developer_Resume.pdf"
         className="flex items-center gap-2 text-white rounded-sm text-[0.9rem] sm:text-[1.2rem] px-3 py-2 transition-all duration-300 hover:bg-[#8B48E8]"
       >
         <i className="ri-file-download-line"></i>

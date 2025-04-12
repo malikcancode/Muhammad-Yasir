@@ -14,7 +14,7 @@ const projectData = [
   {
     id: 3,
     title: "PawsAndClaws",
-    subheading: "small-town clinic",
+    subheading: "Small-town clinic",
     link: "https://paws-and-claws-vet.vercel.app/",
   },
   {
@@ -25,7 +25,7 @@ const projectData = [
   },
   {
     id: 5,
-    title: "Golf",
+    title: "Golf Website",
     subheading: "Eat Drink Play",
     link: "https://sidcup-family-golf-topaz.vercel.app/",
   },
@@ -38,7 +38,7 @@ const projectData = [
   {
     id: 7,
     title: "Wibe Studio",
-    subheading: "Inspire Creative Belive",
+    subheading: "Inspire Creative Belief",
     link: "https://wibe-studio-rho.vercel.app/",
   },
   {
