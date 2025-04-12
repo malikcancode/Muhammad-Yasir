@@ -53,6 +53,12 @@ const projectData = [
     subheading: "small-town clinic",
     link: "https://paws-and-claws-vet.vercel.app/",
   },
+    {
+    id: 10,
+    title: "Priceoye",
+    subheading: "Ecommerce store clone",
+    link: "https://price-oye-clone-xi.vercel.app/",
+  },
 ];
 
 function Projects() {
